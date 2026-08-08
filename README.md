@@ -14,8 +14,8 @@ Follow these steps to get your development environment running:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/PedroKlososki/Capstone-project-Blog
-   cd https://github.com/PedroKlososki/Capstone-project-Blog
+   git clone https://github.com/PedroKlososki/Capstone-project-Blog.git
+   cd Capstone-project-Blog
    ```
 
 2. **Install dependencies:**
